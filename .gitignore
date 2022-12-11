@@ -1,0 +1,10 @@
+﻿Library
+Temp
+ProjectSettings
+Logs
+UserSettings/Layouts
+*.asset
+*.sln
+*.csproj
+.idea
+obj
